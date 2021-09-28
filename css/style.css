@@ -1,0 +1,79 @@
+body#index {
+    text-align: center;
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+body#movies {
+    text-align: center;
+    background-image: url(../img/background2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#ilkfilm {
+    margin-top: 40px;
+
+}
+
+
+
+body#about {
+    text-align: center;
+    background-image: url(../img/background3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 20px;
+
+}
+
+
+#first-link {
+    margin-left: 0px;
+}
+
+#second-link {
+    margin-left: 40px;
+}
+
+#third-link {
+    margin-left: 40px;
+}
+
+
+ul {
+    margin-top: 50px;
+    font-style: oblique;
+    display: inline-block;
+    width: 200px;
+}
+li {
+    text-align: left;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 20%;
+    padding: 5px;
+  }
+
+
+
+#aboutt {
+    margin-top: 40px;
+    font-size: 20px;
+    
+}
+
+
+
+
+
+
+
